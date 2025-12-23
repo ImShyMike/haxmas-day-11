@@ -5,6 +5,8 @@ This workshop will _hopefully_ tech you how to make a simple blog using [Astro](
 The example project for this workshop can be found here: [https://haxmas-day-11.shymike.dev](https://haxmas-day-11.shymike.dev)
 If you have any questions, feel free to ask DM me ([@miggy](https://hackclub.enterprise.slack.com/team/U07VC9705D4)) on Slack!
 
+### You can folow the guide [on the github repository](https://github.com/ImShyMike/haxmas-day-11) if you want syntax highlighting on the code blocks!
+
 Have fun!
 
 | Prizes         |
