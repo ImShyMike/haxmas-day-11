@@ -37,10 +37,16 @@ To start, set up a new Astro project by running the following command in your te
 bun create astro@latest -- --template minimal
 ```
 
-Give your project a name (e.g., `haxmas-day-11`) and navigate into the project directory:
+Give your project a name (e.g., `haxmas-day-11`) and navigate into the project's directory:
 
 ```bash
 cd haxmas-day-11
+```
+
+Then install the base dependencies with:
+
+```bash
+bun i
 ```
 
 Woah! That was easy! :D
@@ -67,7 +73,8 @@ bun astro add tailwind
 
 The final structure of the project should look like this:
 
-```src
+```text
+src
 ├── assets
 ├── components
 │   └── FormattedDate.astro
