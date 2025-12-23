@@ -199,7 +199,7 @@ const { title, description, pubDate, heroImage } = Astro.props;
 ---
 <div class="post-page page-shell">
     <article class="post">
-        <!-- Header with prost data -->
+        <!-- Header with post data -->
         <header>
             <h1>{title}</h1>
             <p class="description">{description}</p>
