@@ -24,8 +24,8 @@ Before starting this workshop, make sure you have the following installed on you
 
 - [Bun](https://bun.sh) ([npm](https://www.npmjs.com/package/npm) also works but I will be using Bun)
 - A [GitHub](https://github.com) account
-- A [Cloudflare](https://cloudflare.com) account
 - An IDE (I will be using [VSCode](https://code.visualstudio.com))
+- A [Cloudflare](https://cloudflare.com) account (or any other hosting provider that supports Astro, the guide will use Cloudflare)
 
 #### Cloudflare will be used in this guide to host the blog but you can use any other hosting provider that supports Astro! (Vercel, Netlify, etc)
 
