@@ -12,7 +12,7 @@ Have fun!
 |10$ domain grant|
 |1 snowflake     |
 
-![workshop banner](./assets/workshop-banner.png)
+![workshop banner](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/workshop-banner.png)
 
 ---
 
@@ -49,7 +49,7 @@ bun dev
 
 You should now be able to head over to `http://localhost:4321` and see your new Astro project running!
 
-![astro dev server](./assets/setup.png)
+![astro dev server](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/setup.png)
 
 ## 2) Installing dependencies
 
@@ -169,7 +169,7 @@ import '../styles/global.css';
 </html>
 ```
 
-![homepage](./assets/homepage.png)
+![homepage](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/homepage.png)
 
 ## 7) Displaying blog posts
 
@@ -280,7 +280,7 @@ You can now head over to `http://localhost:4321/posts/hello-world` (or whatever 
 
 _(if you see an error about missing content or incorrect types, stop the dev server and start it again with `bun dev`)_
 
-![blog post](./assets/workshop-banner.png)
+![blog post](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/workshop-banner.png)
 
 ### The styling is currently very basic and you need to tweak it and make it your own before submitting!
 
@@ -334,7 +334,7 @@ const posts = (await getCollection('blog')).sort(
 
 You can now head over to `http://localhost:4321/posts` to see all your blog posts!
 
-![blog posts list](./assets/posts.png)
+![blog posts list](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/posts.png)
 
 ## 10) Styling
 
@@ -354,7 +354,7 @@ To deploy your very amazing blog to Cloudflare Pages:
 
 - Click on `Create Application`, then click the small text on the bottom saying `Looking to deploy Pages? Get started`.
 
-![cloudflare pages create](./assets/cf-pages.png)
+![cloudflare pages create](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/cf-pages.png)
 
 - After that, select `Import an existing Git repository` and add your GitHub account.
 
@@ -365,13 +365,13 @@ To deploy your very amazing blog to Cloudflare Pages:
   - **Framework preset**: `Astro`
   - **Build command**: `bun build`
 
-![cloudflare pages deployment](./assets/create-deployment.png)
+![cloudflare pages deployment](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/create-deployment.png)
 
 - Click `Save and Deploy`.
 
 You're done! After a few seconds, your blog should be live on Cloudflare Pages!
 
-![cloudflare pages deployed](./assets/success.png)
+![cloudflare pages deployed](https://raw.githubusercontent.com/ImShyMike/haxmas-day-11/refs/heads/main/assets/assets/success.png)
 
 ## 12) Submitting
 
