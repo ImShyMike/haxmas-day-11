@@ -1,3 +1,5 @@
+## SUBMISSIONS CLOSE AT [4:30 PM EST ON DECEMBER 24TH](https://time.cs50.io/20251224T2130+0000?title=End+of+Haxmas+Day+11&location=https%3A%2F%2Fhaxmas.hackclub.com%2Fday%2F11)!
+
 # Let's make a blog with Astro and Markdown!
 
 This workshop will _hopefully_ tech you how to make a simple blog using [Astro](https://astro.build) in about 2 to 3 hours :3
